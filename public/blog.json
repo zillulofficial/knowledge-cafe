@@ -1,0 +1,53 @@
+[
+    {
+      "title": "The Art of Happiness",
+      "cover": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9781594488894",
+      "author_name": "Dalai Lama",
+      "author_img": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "release_date": "2023-07-15",
+      "reading_time_hours": 3,
+      "hashtags": ["self-help", "mindfulness", "happiness"]
+    },
+    {
+      "title": "The Power of Now",
+      "cover": "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9781577314806",
+      "author_name": "Eckhart Tolle",
+      "author_img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "release_date": "2022-09-25",
+      "reading_time_hours": 4,
+      "hashtags": ["spirituality", "mindfulness", "presentmoment"]
+    },
+    {
+      "title": "Atomic Habits",
+      "cover": "https://images.unsplash.com/photo-1542435503-956c469947f6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9780735211292",
+      "author_name": "James Clear",
+      "author_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "release_date": "2021-12-10",
+      "reading_time_hours": 2.5,
+      "hashtags": ["habits", "productivity", "self-improvement"]
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "cover": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9780062316097",
+      "author_name": "Yuval Noah Harari",
+      "author_img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "release_date": "2020-10-05",
+      "reading_time_hours": 5,
+      "hashtags": ["history", "anthropology", "evolution"]
+    },
+    {
+      "title": "Code Complete",
+      "cover": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "9780062457714",
+      "author_name": "Mark Manson",
+      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "release_date": "2019-06-20",
+      "reading_time_hours": 3.5,
+      "hashtags": ["self-help", "motivation", "perspective"]
+    }
+  ]
+  
