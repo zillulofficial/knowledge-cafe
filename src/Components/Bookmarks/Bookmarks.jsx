@@ -9,7 +9,7 @@ const Bookmarks = ({ bookmarks, readingTime }) => {
             <div className=' bg-slate-300 rounded-xl py-4'>
                 <h3 className="text-3xl text-center">Bookmarked Blogs: {bookmarks.length}</h3>
                 {
-                    bookmarks.map(bookmark => <Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+                    bookmarks.map((bookmark, idx) => <Bookmark key={idx} bookmark={bookmark}></Bookmark>)
                 }
             </div>
         </div>
@@ -18,6 +18,6 @@ const Bookmarks = ({ bookmarks, readingTime }) => {
 
 Bookmarks.propTypes = {
     bookmarks: PropTypes.array.isRequired,
-    readingTime: PropTypes.array
+    readingTime: PropTypes.number
 }
 export default Bookmarks;
